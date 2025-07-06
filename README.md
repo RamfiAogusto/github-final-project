@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este repositorio contiene el proyecto final del curso de GitHub de Coursera. Es un proyecto de demostración que incluye un calculador de interés simple implementado en Bash.
+Este repositorio contiene el proyecto final del curso de GitHub de Coursera. Es un proyecto de demostración que incluye una calculadora de interés simple implementada en Bash.
 
 ## Características
 
